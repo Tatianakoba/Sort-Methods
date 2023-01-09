@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE265CBB-B16D-4E77-82FA-F86BD98AF1FF}</ProjectGuid>
+    <ProjectGuid>{C2B23028-3BA9-4A8D-909A-0ECA08DB8E32}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Bubblesort</RootNamespace>
     <AssemblyName>Bubblesort</AssemblyName>
