@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C2B23028-3BA9-4A8D-909A-0ECA08DB8E32}</ProjectGuid>
+    <ProjectGuid>{126F6BFA-F485-45C0-A26F-785F80877184}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bubblesort</RootNamespace>
-    <AssemblyName>Bubblesort</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
